@@ -1,5 +1,5 @@
 # T3RN.BOT
-T3RN多钱包运行
+T3RN多钱包同时运行 很好用
 #!/bin/bash
 
 # 检查是否为 root 用户
